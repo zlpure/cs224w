@@ -13,21 +13,21 @@ As we all konw, networks are a fundamental tool for modeling complex social, tec
 ******
 
 ## Table of Contents
-* [Assignment 0](https://github.com/zlpure/CS234/tree/master/assignment1)
+* [Assignment 0](https://github.com/zlpure/cs224w/tree/master/hw0-bundle)
   * Analyzing the Wikipedia voters network
   * Further Analyzing the Wikipedia voters network
   * Finding Experts on the Java Programming Language on StackOverflow
-* [Assignment 1](https://github.com/zlpure/CS234/tree/master/assignment2)
+* [Assignment 1](https://github.com/zlpure/cs224w/tree/master/hw1-bundle)
   * Network Characteristics
   * Structural Roles: Rolx and ReFex
   * Community detection using the Louvain algorithm
   * Spectral clustering 
-* [Assignment 2](https://github.com/zlpure/CS234/tree/master/assignment3)
+* [Assignment 2](https://github.com/zlpure/cs224w/tree/master/hw2-bundle)
   * Node Classification
   * Node Embeddings with TransE
   * GNN Expressiveness
   * GNN training
-* [Assignment 3](https://github.com/zlpure/CS234/tree/master/assignment3)
+* [Assignment 3](https://github.com/zlpure/cs224w/tree/master/hw3-bundle)
   * Bowtie Structure of Non-Web Networks
   * Link Analysis
   * Decision-based Cascades: A Local Election

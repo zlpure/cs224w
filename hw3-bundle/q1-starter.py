@@ -36,16 +36,7 @@ def q1_1():
         out_.append(i.GetId())
     for i in BfsTree_in.Nodes():
         in_.append(i.GetId()) 
-    scc = set(out_) & set(in_)
-    print ('OUT, IN, SCC: ', len(out_), len(in_), len(scc))
-    if 224 in scc:
-        print ('in SCC!')
-    elif 224 in out_:
-        print ('in OUT!')
-    elif 224 in in_:
-        print ('in IN!')
-    else:
-        print ('in DISCONNECTED!')
+    print ('OUT, IN: ', len(out_), len(in_))
       
     
     ##########################################################################
@@ -62,16 +53,7 @@ def q1_1():
         out_.append(i.GetId())
     for i in BfsTree_in.Nodes():
         in_.append(i.GetId()) 
-    scc = set(out_) & set(in_)
-    print ('OUT, IN, SCC: ', len(out_), len(in_), len(scc))
-    if 2018 in scc:
-        print ('in SCC!')
-    elif 2018 in out_:
-        print ('in OUT!')
-    elif 2018 in in_:
-        print ('in IN!')
-    else:
-        print ('in DISCONNECTED!')
+    print ('OUT, IN: ', len(out_), len(in_))
       
     ##########################################################################
 
